@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Payzaty",
+  "SystemName": "Payments.Payzaty",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "CroxessEgy",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.Payzaty.dll",
+  "Description": "This plugin allows you to pay through Payzaty payment gateway."
+}

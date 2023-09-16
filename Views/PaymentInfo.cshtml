@@ -1,0 +1,16 @@
+﻿@{
+    Layout = "";
+}
+@model Nop.Plugin.Payments.Payzaty.Models.PaymentInfoModel
+
+<div class="title">
+    <strong>@T("Payment.SelectCreditCard")</strong>
+</div>
+<table width="100%" cellspacing="2" cellpadding="1" border="0">
+    <tr>
+        <td>
+
+            <select asp-for="CreditCardType" asp-items="Model.CreditCardTypes" class="dropdownlists"></select>
+        </td>
+    </tr>
+</table>

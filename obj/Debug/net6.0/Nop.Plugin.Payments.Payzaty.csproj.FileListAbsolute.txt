@@ -1,0 +1,612 @@
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\logo.jpg
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\plugin.json
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Views\Configure.cshtml
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Views\PaymentInfo.cshtml
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Views\_ViewImports.cshtml
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Nop.Plugin.Payments.Payzaty.deps.json
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Nop.Plugin.Payments.Payzaty.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Nop.Plugin.Payments.Payzaty.pdb
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.CSharp.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Features.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Http.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Localization.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Options.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.JSInterop.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.VisualBasic.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Win32.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Win32.Registry.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\mscorlib.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\netstandard.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.AppContext.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Buffers.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.Concurrent.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.Immutable.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.NonGeneric.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.Specialized.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.Annotations.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Configuration.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Console.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Core.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Data.Common.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Data.DataSetExtensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Data.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Contracts.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Debug.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.EventLog.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Process.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.StackTrace.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Tools.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.TraceSource.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Tracing.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Drawing.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Drawing.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Dynamic.Runtime.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Formats.Asn1.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Globalization.Calendars.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Globalization.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Globalization.Extensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Compression.Brotli.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Compression.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Compression.FileSystem.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Compression.ZipFile.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.IsolatedStorage.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Pipelines.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Pipes.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Linq.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Linq.Expressions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Linq.Parallel.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Linq.Queryable.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Memory.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Http.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Http.Json.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.HttpListener.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Mail.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.NameResolution.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.NetworkInformation.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Ping.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Requests.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Security.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.ServicePoint.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Sockets.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebClient.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebHeaderCollection.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebProxy.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebSockets.Client.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebSockets.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Numerics.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Numerics.Vectors.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ObjectModel.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.DispatchProxy.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Emit.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Extensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Metadata.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.TypeExtensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Resources.Reader.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Resources.ResourceManager.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Resources.Writer.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Extensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Handles.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.InteropServices.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Intrinsics.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Loader.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Numerics.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.Json.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.AccessControl.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Claims.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Cng.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Csp.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Xml.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Principal.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Principal.Windows.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.SecureString.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ServiceModel.Web.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ServiceProcess.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Encoding.CodePages.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Encoding.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Encoding.Extensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Encodings.Web.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Json.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.RegularExpressions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Channels.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Overlapped.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Tasks.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Thread.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.ThreadPool.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Timer.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Transactions.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Transactions.Local.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ValueTuple.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Web.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Web.HttpUtility.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Windows.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.Linq.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.ReaderWriter.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.Serialization.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XDocument.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XmlDocument.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XmlSerializer.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XPath.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XPath.XDocument.dll
+C:\Users\TOTA\Desktop\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\WindowsBase.dll
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.csproj.AssemblyReference.cache
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.AssemblyInfoInputs.cache
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.AssemblyInfo.cs
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.csproj.CoreCompileInputs.cache
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.csproj.CopyComplete
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.dll
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\refint\Nop.Plugin.Payments.Payzaty.dll
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.pdb
+C:\Users\TOTA\Desktop\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\ref\Nop.Plugin.Payments.Payzaty.dll
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.csproj.AssemblyReference.cache
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.AssemblyInfoInputs.cache
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.AssemblyInfo.cs
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.csproj.CoreCompileInputs.cache
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\logo.jpg
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\plugin.json
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Views\Configure.cshtml
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Views\PaymentInfo.cshtml
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Views\_ViewImports.cshtml
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Nop.Plugin.Payments.Payzaty.deps.json
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Nop.Plugin.Payments.Payzaty.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\Nop.Plugin.Payments.Payzaty.pdb
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Cors.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Identity.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Localization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Razor.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Routing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.Session.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.CSharp.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Features.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Hosting.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Http.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Localization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Options.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.JSInterop.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Net.Http.Headers.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.VisualBasic.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.VisualBasic.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Win32.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\Microsoft.Win32.Registry.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\mscorlib.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\netstandard.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.AppContext.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Buffers.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.Concurrent.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.Immutable.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.NonGeneric.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Collections.Specialized.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.Annotations.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.DataAnnotations.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ComponentModel.TypeConverter.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Configuration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Console.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Data.Common.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Data.DataSetExtensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Data.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Contracts.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Debug.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.EventLog.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Process.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.StackTrace.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Tools.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.TraceSource.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Diagnostics.Tracing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Drawing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Drawing.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Dynamic.Runtime.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Formats.Asn1.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Globalization.Calendars.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Globalization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Globalization.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Compression.Brotli.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Compression.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Compression.FileSystem.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Compression.ZipFile.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.AccessControl.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.FileSystem.Watcher.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.IsolatedStorage.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.MemoryMappedFiles.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Pipelines.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Pipes.AccessControl.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.Pipes.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Linq.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Linq.Expressions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Linq.Parallel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Linq.Queryable.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Memory.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Http.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Http.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.HttpListener.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Mail.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.NameResolution.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.NetworkInformation.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Ping.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Requests.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Security.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.ServicePoint.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.Sockets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebClient.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebHeaderCollection.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebProxy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebSockets.Client.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Net.WebSockets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Numerics.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Numerics.Vectors.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ObjectModel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.DispatchProxy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Emit.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Emit.Lightweight.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Metadata.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Reflection.TypeExtensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Resources.Reader.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Resources.ResourceManager.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Resources.Writer.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Handles.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.InteropServices.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Intrinsics.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Loader.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Numerics.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.Formatters.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Runtime.Serialization.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.AccessControl.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Claims.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Algorithms.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Cng.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Csp.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Encoding.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Cryptography.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Principal.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.Principal.Windows.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Security.SecureString.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ServiceModel.Web.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ServiceProcess.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Encoding.CodePages.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Encoding.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Encoding.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Encodings.Web.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Text.RegularExpressions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Channels.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Overlapped.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Tasks.Dataflow.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Tasks.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Tasks.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Tasks.Parallel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Thread.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.ThreadPool.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Threading.Timer.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Transactions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Transactions.Local.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.ValueTuple.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Web.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Web.HttpUtility.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Windows.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.Linq.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.ReaderWriter.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.Serialization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XDocument.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XmlDocument.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XmlSerializer.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XPath.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\System.Xml.XPath.XDocument.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Payzaty\refs\WindowsBase.dll
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.csproj.CopyComplete
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.dll
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\refint\Nop.Plugin.Payments.Payzaty.dll
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\Nop.Plugin.Payments.Payzaty.pdb
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Payzaty\obj\Debug\net6.0\ref\Nop.Plugin.Payments.Payzaty.dll

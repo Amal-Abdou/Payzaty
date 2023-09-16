@@ -1,0 +1,612 @@
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.csproj.AssemblyReference.cache
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.AssemblyInfoInputs.cache
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.AssemblyInfo.cs
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.csproj.CoreCompileInputs.cache
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\logo.jpg
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\plugin.json
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Views\Configure.cshtml
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Views\PaymentInfo.cshtml
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Views\_ViewImports.cshtml
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Nop.Plugin.Payments.Nbe.deps.json
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Nop.Plugin.Payments.Nbe.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Nop.Plugin.Payments.Nbe.pdb
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Cors.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Identity.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Localization.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Razor.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Routing.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Session.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.CSharp.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Features.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Hosting.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Http.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Identity.Core.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Localization.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Options.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.JSInterop.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Net.Http.Headers.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.VisualBasic.Core.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.VisualBasic.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Win32.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Win32.Registry.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\mscorlib.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\netstandard.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.AppContext.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Buffers.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.Concurrent.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.Immutable.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.NonGeneric.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.Specialized.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.Annotations.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.DataAnnotations.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.TypeConverter.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Configuration.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Console.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Core.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Data.Common.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Data.DataSetExtensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Data.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Contracts.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Debug.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.DiagnosticSource.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.EventLog.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Process.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.StackTrace.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Tools.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.TraceSource.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Tracing.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Drawing.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Drawing.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Dynamic.Runtime.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Formats.Asn1.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Globalization.Calendars.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Globalization.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Globalization.Extensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Compression.Brotli.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Compression.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Compression.FileSystem.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Compression.ZipFile.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.AccessControl.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.Watcher.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.IsolatedStorage.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.MemoryMappedFiles.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Pipelines.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Pipes.AccessControl.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Pipes.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Linq.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Linq.Expressions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Linq.Parallel.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Linq.Queryable.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Memory.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Http.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Http.Json.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.HttpListener.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Mail.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.NameResolution.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.NetworkInformation.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Ping.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Requests.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Security.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.ServicePoint.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Sockets.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebClient.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebHeaderCollection.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebProxy.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebSockets.Client.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebSockets.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Numerics.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Numerics.Vectors.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ObjectModel.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.DispatchProxy.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Emit.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Emit.Lightweight.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Extensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Metadata.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.TypeExtensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Resources.Reader.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Resources.ResourceManager.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Resources.Writer.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Extensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Handles.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.InteropServices.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Intrinsics.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Loader.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Numerics.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.Formatters.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.Json.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.Xml.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.AccessControl.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Claims.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Algorithms.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Cng.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Csp.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Encoding.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.OpenSsl.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Primitives.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Xml.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Principal.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Principal.Windows.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.SecureString.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ServiceModel.Web.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ServiceProcess.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Encoding.CodePages.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Encoding.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Encoding.Extensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Encodings.Web.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Json.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.RegularExpressions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Channels.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Overlapped.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Tasks.Dataflow.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Tasks.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Tasks.Extensions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Tasks.Parallel.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Thread.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.ThreadPool.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Timer.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Transactions.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Transactions.Local.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ValueTuple.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Web.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Web.HttpUtility.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Windows.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.Linq.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.ReaderWriter.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.Serialization.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XDocument.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XmlDocument.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XmlSerializer.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XPath.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XPath.XDocument.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\WindowsBase.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.csproj.CopyComplete
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\refint\Nop.Plugin.Payments.Nbe.dll
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.pdb
+E:\Nop 4.5 source\nopCommerce_4.50.2_Source\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\ref\Nop.Plugin.Payments.Nbe.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\logo.jpg
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\plugin.json
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Views\Configure.cshtml
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Views\PaymentInfo.cshtml
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Views\_ViewImports.cshtml
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Nop.Plugin.Payments.Nbe.deps.json
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Nop.Plugin.Payments.Nbe.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\Nop.Plugin.Payments.Nbe.pdb
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Cors.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Identity.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Localization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Razor.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Routing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.Session.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.CSharp.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Features.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Hosting.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Http.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Localization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Options.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.JSInterop.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Net.Http.Headers.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.VisualBasic.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.VisualBasic.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Win32.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\Microsoft.Win32.Registry.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\mscorlib.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\netstandard.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.AppContext.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Buffers.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.Concurrent.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.Immutable.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.NonGeneric.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Collections.Specialized.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.Annotations.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.DataAnnotations.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ComponentModel.TypeConverter.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Configuration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Console.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Core.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Data.Common.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Data.DataSetExtensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Data.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Contracts.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Debug.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.EventLog.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Process.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.StackTrace.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Tools.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.TraceSource.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Diagnostics.Tracing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Drawing.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Drawing.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Dynamic.Runtime.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Formats.Asn1.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Globalization.Calendars.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Globalization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Globalization.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Compression.Brotli.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Compression.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Compression.FileSystem.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Compression.ZipFile.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.AccessControl.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.FileSystem.Watcher.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.IsolatedStorage.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.MemoryMappedFiles.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Pipelines.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Pipes.AccessControl.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.Pipes.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Linq.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Linq.Expressions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Linq.Parallel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Linq.Queryable.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Memory.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Http.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Http.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.HttpListener.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Mail.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.NameResolution.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.NetworkInformation.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Ping.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Requests.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Security.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.ServicePoint.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.Sockets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebClient.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebHeaderCollection.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebProxy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebSockets.Client.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Net.WebSockets.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Numerics.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Numerics.Vectors.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ObjectModel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.DispatchProxy.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Emit.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Emit.Lightweight.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Metadata.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Reflection.TypeExtensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Resources.Reader.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Resources.ResourceManager.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Resources.Writer.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Handles.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.InteropServices.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Intrinsics.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Loader.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Numerics.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.Formatters.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Runtime.Serialization.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.AccessControl.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Claims.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Algorithms.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Cng.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Csp.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Encoding.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Primitives.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Cryptography.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Principal.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.Principal.Windows.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Security.SecureString.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ServiceModel.Web.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ServiceProcess.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Encoding.CodePages.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Encoding.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Encoding.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Encodings.Web.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.Json.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Text.RegularExpressions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Channels.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Overlapped.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Tasks.Dataflow.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Tasks.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Tasks.Extensions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Tasks.Parallel.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Thread.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.ThreadPool.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Threading.Timer.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Transactions.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Transactions.Local.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.ValueTuple.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Web.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Web.HttpUtility.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Windows.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.Linq.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.ReaderWriter.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.Serialization.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XDocument.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XmlDocument.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XmlSerializer.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XPath.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\System.Xml.XPath.XDocument.dll
+D:\Bernasos\Bernasos SourceCode\src\Presentation\Nop.Web\Plugins\Payments.Nbe\refs\WindowsBase.dll
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.csproj.AssemblyReference.cache
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.AssemblyInfoInputs.cache
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.AssemblyInfo.cs
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.csproj.CoreCompileInputs.cache
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.csproj.CopyComplete
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.dll
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\refint\Nop.Plugin.Payments.Nbe.dll
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\Nop.Plugin.Payments.Nbe.pdb
+D:\Bernasos\Bernasos SourceCode\src\Plugins\Nop.Plugin.Payments.Nbe\obj\Debug\net6.0\ref\Nop.Plugin.Payments.Nbe.dll
